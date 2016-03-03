@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <authorizeUrl>https://scansanjuappdeveloper-dev-ed.my.salesforce.com/services/oauth2/authorize</authorizeUrl>
+    <consumerKey>3MVG9ZL0ppGP5UrCA15y4oSJeQaa1dv54i2o3nTbBRMuTL59GRueky6OgxC_aiTAfxka5sdbuwxRO4acGWn0Q</consumerKey>
+    <consumerSecret>SCsDEjzLMAp6RjJlQ94Wm+J24TJCXr+g</consumerSecret>
+    <executionUser>apps@sanjay.com</executionUser>
+    <friendlyName>Scansanju Auth Provider</friendlyName>
+    <iconUrl>https://login.salesforce.com/icons/salesforce-white.png</iconUrl>
+    <includeOrgIdInIdentifier>true</includeOrgIdInIdentifier>
+    <providerType>Salesforce</providerType>
+    <registrationHandler>AutocreatedRegHandler1447151507663</registrationHandler>
+    <sendAccessTokenInHeader>false</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <tokenUrl>https://scansanjuappdeveloper-dev-ed.my.salesforce.com/services/oauth2/token</tokenUrl>
+</AuthProvider>
