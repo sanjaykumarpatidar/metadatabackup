@@ -58,7 +58,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
         <fullName>New_Field__c</fullName>
-        <caseSensitive>false</caseSensitive>
+        <caseSensitive>true</caseSensitive>
         <externalId>true</externalId>
         <label>New Field</label>
         <length>30</length>
