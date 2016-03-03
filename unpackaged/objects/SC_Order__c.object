@@ -69,14 +69,13 @@
     </fields>
     <fields>
         <fullName>Test_New_One__c</fullName>
-        <caseSensitive>false</caseSensitive>
-        <externalId>true</externalId>
+        <externalId>false</externalId>
         <label>Test New One</label>
         <length>50</length>
-        <required>false</required>
+        <required>true</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
-        <unique>true</unique>
+        <unique>false</unique>
     </fields>
     <label>SC Order</label>
     <listViews>
