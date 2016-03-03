@@ -9,6 +9,11 @@
         <value>SC Orders</value>
     </caseValues>
     <fields>
+        <help><!-- Hello !! --></help>
+        <label><!-- AUTO --></label>
+        <name>AUTO__c</name>
+    </fields>
+    <fields>
         <label><!-- New Field --></label>
         <name>New_Field__c</name>
     </fields>
