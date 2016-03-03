@@ -8,5 +8,13 @@
         <plural>true</plural>
         <value>SC Orders</value>
     </caseValues>
+    <fields>
+        <label><!-- New Field --></label>
+        <name>New_Field__c</name>
+    </fields>
+    <fields>
+        <label><!-- Test New One --></label>
+        <name>Test_New_One__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
