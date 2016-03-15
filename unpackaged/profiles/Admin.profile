@@ -1243,6 +1243,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Test_Data_c__x.NOW__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Test_Data_c__x.Test_Field_c__c</field>
         <readable>true</readable>
     </fieldPermissions>

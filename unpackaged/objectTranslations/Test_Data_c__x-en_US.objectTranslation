@@ -37,6 +37,10 @@
         <name>LastViewedDate__c</name>
     </fields>
     <fields>
+        <label><!-- NOW --></label>
+        <name>NOW__c</name>
+    </fields>
+    <fields>
         <label><!-- Test Data Name --></label>
         <name>Name__c</name>
     </fields>
